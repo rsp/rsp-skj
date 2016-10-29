@@ -2,14 +2,14 @@ Rafał Pocztarski
 =
 SKJ
 -
-Java Networking Examples with CI Tests -
+Java Networking Examples -
 [internal project](https://github.com/rsp/rsp-internal#readme)
 
 See:
 
 * **SKJ P02** - [GitHub][github-p02-url] (code), [Travis CI][travis-p02-url] (tests), [GitLab][gitlab-p02-url] (private repo), [GitLab CI][gitlabci-p02-url] (private tests)
 
-Created to test Java networking code using Travis and GitLab continuous integration systems.
+Created to test Java networking code.
 
 Author
 ------
