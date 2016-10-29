@@ -11,9 +11,7 @@ Created to test Java networking code using Travis and GitLab continuous integrat
 
 Author
 ------
-**Rafał Pocztarski**
-<br/>
-https://pocztarski.com/
+[**Rafał Pocztarski<br/>https://pocztarski.com/**](https://pocztarski.com/)
 <br/>
 [![Follow on GitHub][github-follow-img]][github-follow-url]
 [![Follow on Twitter][twitter-follow-img]][twitter-follow-url]
